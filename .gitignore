@@ -1,0 +1,11 @@
+# Raw data
+data/*
+!data/README.md
+
+# Power BI temporary files
+*.tmp
+~$*.pbix
+
+# System files
+.DS_Store
+Thumbs.db
